@@ -1,14 +1,13 @@
 # 🚀 Gaelle Bitar
 
-## 👩‍💻 CS Master's Student | Aspiring Full-Stack Developer
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDBiZmUxMjdsZXNudDl4bTY3ZnYyaGsyZW4zOHQxcmRvbDc4cG54MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CcwLAV11cALh3OuEJ5/giphy.gif" width="400"/>
+</p>
+
+## 👩‍💻 42 Student | CS Master's Student | Aspiring Full-Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BitarGaelle\&label=Profile%20Views\&color=blue\&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BitarGaelle\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BitarGaelle\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=BitarGaelle\&theme=tokyonight)
-
-![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20Systems%20%7C%20AI-purple)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20C%20%7C%20C%2B%2B%20%7C%20JavaScript-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Backend%20%7C%20BlockChain%20%7C%20AI-purple)
 ![Learning](https://img.shields.io/badge/Always-Learning-orange)
 
 ---
@@ -26,9 +25,10 @@ I am developing my path toward becoming a strong full-stack developer through ha
 ### 🚀 42 Beirut – Level 2
 
 Project-based learning with peer evaluation and real engineering challenges.
-Focus areas:
+Focused on:
 
 * C programming
+* Python programming
 * Algorithms
 * Memory management
 * System fundamentals
@@ -49,9 +49,9 @@ Lebanese University (2021 – 2025)
 
 ### Machine Learning Engineer Intern – AI Ritual
 
-* Built agentic workflows using multiple collaborating LLMs
-* Designed AI-powered automation systems
-* Applied machine learning solutions to real-world business problems
+✔ Built agentic workflows using multiple collaborating LLMs
+✔ Designed AI-powered automation systems
+✔ Applied machine learning solutions to real-world business problems
 
 Hands-on experience working with production-oriented AI systems.
 
@@ -59,27 +59,37 @@ Hands-on experience working with production-oriented AI systems.
 
 ## ⚡ Technical Skills
 
-**Languages:**
-Python · Java · C · C++ · JavaScript · SQL
+### 📊 Skill Level
 
-**Frameworks:**
-React · Node.js · .NET · Flutter
+![Python](https://img.shields.io/badge/Python-8e44ad?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-e67e22?style=for-the-badge)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-3498db?style=for-the-badge)
+![React](https://img.shields.io/badge/React-2ecc71?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-e74c3c?style=for-the-badge)
 
-**Databases:**
-MySQL · SQL Server · MongoDB
+---
 
-**Tools:**
-Linux · Git · AWS · Android Studio · VS Code
+### 🛠 Technologies I Work With
 
+![SQL](https://img.shields.io/badge/SQL-✔-blue?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-✔-green?style=flat)
+![Django](https://img.shields.io/badge/Django-✔-darkgreen?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-✔-blue?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-✔-success?style=flat)
+![.NET](https://img.shields.io/badge/.NET-✔-purple?style=flat)
+![HTML](https://img.shields.io/badge/HTML-✔-orange?style=flat)
+![CSS](https://img.shields.io/badge/CSS-✔-blue?style=flat)
+![Git](https://img.shields.io/badge/Git-✔-black?style=flat)
+![Linux](https://img.shields.io/badge/Linux-✔-yellow?style=flat)
 ---
 
 ## 🌍 Extracurricular
 
 🎉 Agentic Hackathon – Organizing Team Member
 
-* Event coordination
-* Logistics support
-* Participant assistance
+✔ Event coordination
+✔ Logistics support
+✔ Participant assistance
 
 ---
 
