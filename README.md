@@ -22,7 +22,7 @@ I am developing my path toward becoming a strong full-stack developer through ha
 
 ## 🎓 Education
 
-### 🚀 42 Beirut – Level 2
+### 🚀 42 Beirut – Level 3
 
 Project-based learning with peer evaluation and real engineering challenges.
 Focused on:
