@@ -66,6 +66,7 @@ Hands-on experience working with production-oriented AI systems.
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-3498db?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-2ecc71?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-e74c3c?style=for-the-badge)
+![Angular](https://img.shields.io/badge/AWS-e74c3c?style=for-the-badge)
 
 ---
 
@@ -81,6 +82,7 @@ Hands-on experience working with production-oriented AI systems.
 ![CSS](https://img.shields.io/badge/CSS-✔-blue?style=flat)
 ![Git](https://img.shields.io/badge/Git-✔-black?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-✔-yellow?style=flat)
+![Angular](https://img.shields.io/badge/AWS-e74c3c?style=for-the-badge)
 ---
 
 ## 🌍 Extracurricular
